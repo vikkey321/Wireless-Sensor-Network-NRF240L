@@ -14,5 +14,8 @@ You will need below BOM to create two nodes:
 6. Push button - 2
 7. Breadboard (Full Size) - 2
 
-
+### Node 1 Circuit Diagram
 ![alt text](https://github.com/vikkey321/Wireless-Sensor-Network-NRF240L/blob/master/Node1.png)
+
+### Node 2 Circuit Diagram
+![alt text](https://github.com/vikkey321/Wireless-Sensor-Network-NRF240L/blob/master/Node2.png)
