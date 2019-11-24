@@ -1,2 +1,2 @@
 # Wireless Sensor Network NRF240L
- NRF240L firmware to establish one to one and one to many node communication
+This is a tutorial on getting started with **"Wireless Sensor Network"** using **"NRF240L"** transreceiver module.
